@@ -1,0 +1,4 @@
+# Portable overlay for local development: relative name only.
+- insert:
+    - id: dsh-plugin-evidence-gate
+      name: './src/index.ts'
